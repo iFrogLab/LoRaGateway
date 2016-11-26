@@ -25,9 +25,9 @@ iFrogLab  ifroglab LoRa  USB  dongle  868/900/915 MHz SX1272 module compatible
 In addition, We’er add powerful MCU to help Users that don’t needs to read the datasheet of SX1272, you just go through UART to control this module and will easy to use the module in the best performance.
 
 
-<img src="http://www.ifroglab.com/?p=7315" alt="LoRa" style="width:304px;height:304px;">
+<img src="http://www.ifroglab.com/wp-content/uploads/2016/10/S__21618691.jpg" alt="LoRa" style="width:304px;height:304px;">
 
- [http://www.ifroglab.com/wp-content/uploads/2016/07/IMG_0532.jpg]
+ [ttp://www.ifroglab.com/wp-content/uploads/2016/10/S__21618691.jpg]
 
 
 
